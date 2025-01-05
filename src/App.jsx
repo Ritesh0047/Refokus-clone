@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 const App = () => {
   const locomotiveScroll = new LocomotiveScroll();
   return (
-    <div className='w-full  bg-zinc-900 text-white font-["satoshi"]'>
+    <div className='w-full  bg-zinc-900 text-white'>
     <Navbar />
     <Work />
     <Stripes />
